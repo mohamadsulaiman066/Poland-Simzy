@@ -1,7 +1,7 @@
 # Poland-Simzy Snowflake DBT Integration
 
-Implemented version-controlled DBT projects using Git, enabling collaborative development, CI/CD pipelines, and automated deployment of transformations.
-Designed modular DBT models across raw (bronze), cleansed (silver), and business-ready (gold) layers to ensure scalability and maintainability of data pipelines.
+* Implemented version-controlled DBT projects using Git, enabling collaborative development, CI/CD pipelines, and automated deployment of transformations.
+* Designed modular DBT models across raw (bronze), cleansed (silver), and business-ready (gold) layers to ensure scalability and maintainability of data pipelines.
 Developed reusable Jinja macros to standardize SQL logic, reduce redundancy, and accelerate model development.
 Defined sources with freshness checks and built layered models to ensure reliable ingestion and transformation of data.
 Automated pipeline execution using metadata tables, reducing manual intervention and enabling dynamic model selection.
