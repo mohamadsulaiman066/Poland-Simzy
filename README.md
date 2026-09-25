@@ -10,5 +10,3 @@
 * Applied schema and custom tests (unique, not null, referential integrity) to enforce data reliability and prevent downstream issues.
 * Scheduled DBT runs via Airflow DAGs, managing dependencies and monitoring pipeline health.
 * Published gold-layer models to Power BI dashboards, enabling business stakeholders to access trusted, curated datasets.
-
-# Poland-Simzy Snowflake DBT Airflow Integrations
