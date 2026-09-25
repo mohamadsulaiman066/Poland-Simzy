@@ -1,4 +1,4 @@
-# Poland-Simzy Snowflake DBT Integration
+# Poland-Simzy Snowflake DBT Airflow Integration
 
 * Implemented version-controlled DBT projects using Git, enabling collaborative development, CI/CD pipelines, and automated deployment of transformations.
 * Designed modular DBT models across raw (bronze), cleansed (silver), and business-ready (gold) layers to ensure scalability and maintainability of data pipelines.
@@ -10,3 +10,5 @@
 * Applied schema and custom tests (unique, not null, referential integrity) to enforce data reliability and prevent downstream issues.
 * Scheduled DBT runs via Airflow DAGs, managing dependencies and monitoring pipeline health.
 * Published gold-layer models to Power BI dashboards, enabling business stakeholders to access trusted, curated datasets.
+
+# Poland-Simzy Snowflake DBT Airflow Integration
