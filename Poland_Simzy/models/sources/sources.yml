@@ -1,0 +1,8 @@
+sources:
+  - name: staging
+    database: pol_lyca  
+    schema: simzy  
+    tables:
+      - name: topup
+      - name: bt
+      - name: edr
